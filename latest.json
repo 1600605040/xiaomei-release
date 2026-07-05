@@ -1,0 +1,13 @@
+{
+  "version": "v1.17.1",
+  "notes": "小美私人秘书 v1.17.1 更新\n- 基于 Reasonix Desktop v1.17.1\n- CDP 多浏览器守护\n- 首次启动自动安装依赖",
+  "pub_date": "2026-07-05T21:00:00+08:00",
+  "download_page": "https://github.com/1600605040/xiaomei-release/releases",
+  "platforms": {
+    "windows-amd64": {
+      "url": "https://github.com/1600605040/xiaomei-release/releases/download/v1.17.1/xiaomei-setup-1.17.1.exe",
+      "size": 43354720,
+      "sha256": ""
+    }
+  }
+}
