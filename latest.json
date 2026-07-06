@@ -1,13 +1,13 @@
 {
-  "version": "v1.17.3",
-  "notes": "小美 v1.17.3 稳定版 - 托盘图标+LOGO+品牌修复 + Dashboard仪表盘 + 登录系统 + CDP多浏览器 + 42MCP + 三语言品牌",
-  "pub_date": "2026-07-06T18:30:00+08:00",
+  "version": "v1.17.4",
+  "notes": "v1.17.4 测试更新",
+  "pub_date": "2026-07-06T18:36:00+08:00",
   "download_page": "https://github.com/1600605040/xiaomei-release/releases",
   "platforms": {
     "windows-amd64": {
-      "url": "https://github.com/1600605040/xiaomei-release/releases/download/v1.17.3/xiaomei-setup-v1.17.3.exe",
-      "size": 43070360,
-      "sha256": "f47e68d96d447593ed5e6befbca20ce40c05dc210c98e1175a1cc4b7c4288d10"
+      "url": "https://github.com/1600605040/xiaomei-release/releases/download/v1.17.4/xiaomei-setup-v1.17.4.exe",
+      "size": 43070356,
+      "sha256": "329421c3064c2125632bb2596f5bd46e8709482efb4ec8a60dc9b258280d70f3"
     }
   }
 }
