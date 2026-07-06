@@ -5,7 +5,7 @@
   "download_page": "https://github.com/1600605040/xiaomei-release/releases",
   "platforms": {
     "windows-amd64": {
-      "url": "https://github.com/1600605040/xiaomei-release/releases/download/v1.17.2/xiaomei-setup.exe",
+      "url": "https://github.com/1600605040/xiaomei-release/releases/download/v1.17.2/xiaomei-setup-v1.17.2.exe",
       "size": 45285563,
       "sha256": "ca0d8c40053298d2022a4c64b00bb4f7c838e7cef15618be629000d9c0991f6c"
     }
