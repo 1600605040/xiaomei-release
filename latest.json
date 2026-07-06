@@ -1,13 +1,13 @@
 {
   "version": "v1.17.4",
-  "notes": "v1.17.4",
-  "pub_date": "2026-07-06T21:32:00+08:00",
+  "notes": "v1.17.4 CDN",
+  "pub_date": "2026-07-06T21:35:00+08:00",
   "download_page": "https://github.com/1600605040/xiaomei-release/releases",
   "platforms": {
     "windows-amd64": {
       "url": "https://github.com/1600605040/xiaomei-release/releases/download/v1.17.4/xiaomei-setup-v1.17.4.exe",
-      "size": 43137142,
-      "sha256": "ae9abd537fba48e600601904f869ba0c65618bbb800b3528801cc99e204f3480"
+      "size": 43137248,
+      "sha256": "a0bad54a1800ada35ae86d72dd0a228b752c943b54bd62565b71323375b87f76"
     }
   }
 }
