@@ -1,13 +1,13 @@
 {
-  "version": "v1.17.2",
-  "notes": "小美 v1.17.2",
-  "pub_date": "2026-07-05T12:00:00+08:00",
+  "version": "v1.17.3",
+  "notes": "小美 v1.17.3 — sessions+tabs+updater 安全合并",
+  "pub_date": "2026-07-06T15:00:00+08:00",
   "download_page": "https://github.com/1600605040/xiaomei-release/releases",
   "platforms": {
     "windows-amd64": {
       "url": "https://github.com/1600605040/xiaomei-release/releases/download/v1.17.2/xiaomei-setup.exe",
-      "size": 45285541,
-      "sha256": "7e8e089594cfa7dbc72b5fc68c03a466d98d9bbb901d02d44e4457089fdf5cc9"
+      "size": 47650304,
+      "sha256": "c8ea7be6f7bf240ba8bb56fc65315a07b4dfcd67949c31dbfc6e00076f0d7135"
     }
   }
 }
