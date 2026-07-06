@@ -1,11 +1,11 @@
 {
   "version": "v1.17.2",
-  "notes": "🎉 小美 v1.17.2 更新!",
+  "notes": "测试更新通知 - 新版本 v1.17.2",
   "pub_date": "2026-07-05T21:00:00+08:00",
   "download_page": "https://github.com/1600605040/xiaomei-release/releases",
   "platforms": {
     "windows-amd64": {
-      "url": "https://raw.githubusercontent.com/1600605040/xiaomei-release/main/xiaomei-setup.exe",
+      "url": "https://github.com/1600605040/xiaomei-release/releases/download/v1.17.1/xiaomei-setup-1.17.1.exe",
       "size": 43354720,
       "sha256": ""
     }
