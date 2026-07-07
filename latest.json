@@ -1,13 +1,13 @@
 {
   "version": "v1.17.7",
-  "notes": "v1.17.7-\u5b8c\u6574Memory MCP+41/42 MCP\u8fde\u63a5",
-  "pub_date": "2026-07-08T01:00:00+08:00",
+  "notes": "v1.17.7-MemoryMCP+40-42 servers",
+  "pub_date": "2026-07-08T01:20:00+08:00",
   "download_page": "https://github.com/1600605040/xiaomei-release/releases",
   "platforms": {
     "windows-amd64": {
       "url": "https://github.com/1600605040/xiaomei-release/releases/download/v1.17.7/xiaomei-setup-v1.17.7.exe",
-      "size": 43766163,
-      "sha256": "618b8d193d0d300b32ffcf321b4f6a70bd44cf760ecae93f1c5ded69c3b7330b"
+      "size": 43766165,
+      "sha256": "ea21ef202c874bfaac57f59cd8f9178ca2bebabf2f57fb8a33cc1e12d4278dcd"
     }
   }
 }
