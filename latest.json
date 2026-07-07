@@ -1,13 +1,13 @@
 {
   "version": "v1.17.7",
-  "notes": "v1.17.7-final-0309",
-  "pub_date": "2026-07-08T03:09:43+08:00",
+  "notes": "v1.17.7-memory-persist",
+  "pub_date": "2026-07-08T03:15:31+08:00",
   "download_page": "https://github.com/1600605040/xiaomei-release/releases",
   "platforms": {
     "windows-amd64": {
       "url": "https://github.com/1600605040/xiaomei-release/releases/download/v1.17.7/xiaomei-setup-v1.17.7.exe",
-      "size": 43769676,
-      "sha256": "7db2faed81df6eeec74af7512fd1bec7d208fa591c37925bd975b644f9d1d8c5"
+      "size": 43769728,
+      "sha256": "4d8acf65959f1740d1e901e49670fe15cd04fc71c5ee87b6ac08965b4524081b"
     }
   }
 }
