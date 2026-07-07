@@ -1,13 +1,13 @@
 {
   "version": "v1.17.6",
-  "notes": "v1.17.6-\u667a\u80fd\u955c\u50cf\u52a0\u901f+\u81ea\u52a8\u5b89\u88c5\u4f9d\u8d56",
-  "pub_date": "2026-07-07T21:50:00+08:00",
+  "notes": "v1.17.6-\u667a\u80fd\u955c\u50cf+UI\u8fdb\u5ea6\u901a\u77e5",
+  "pub_date": "2026-07-07T22:00:00+08:00",
   "download_page": "https://github.com/1600605040/xiaomei-release/releases",
   "platforms": {
     "windows-amd64": {
       "url": "https://github.com/1600605040/xiaomei-release/releases/download/v1.17.6/xiaomei-setup-v1.17.6.exe",
-      "size": 43745579,
-      "sha256": "3a5fbe46046c5bef8431421418f1a56a3f4338c38c733a582a0fba9b696df1ed"
+      "size": 43745519,
+      "sha256": "2cde4bf0d65795dc4fca429b8e09d95415fd0b7c0a705ca690ab689388b7e596"
     }
   }
 }
