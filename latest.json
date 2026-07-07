@@ -1,13 +1,13 @@
 {
-  "version": "v1.17.5",
-  "notes": "v1.17.5 New API \u5bf9\u63a5",
-  "pub_date": "2026-07-07T00:05:00+08:00",
+  "version": "v1.17.6",
+  "notes": "v1.17.6\u5b8c\u6574\u7248-9\u7c7b\u8d44\u6e90+MCP+\u6280\u80fd+CDP+hooks",
+  "pub_date": "2026-07-07T21:30:00+08:00",
   "download_page": "https://github.com/1600605040/xiaomei-release/releases",
   "platforms": {
     "windows-amd64": {
-      "url": "https://github.com/1600605040/xiaomei-release/releases/download/v1.17.5/xiaomei-setup-v1.17.5.exe",
-      "size": 43139724,
-      "sha256": "2e1a608e5dde41e7d6a79f9900ac07d7564b0d5b647541bac66bf3873cf2d0c7"
+      "url": "https://github.com/1600605040/xiaomei-release/releases/download/v1.17.6/xiaomei-setup-v1.17.6.exe",
+      "size": 43743453,
+      "sha256": "7f5eb89baa53a1eace3125c117dc6248bc5aa571f14b338d090c9bed5805134b"
     }
   }
 }
