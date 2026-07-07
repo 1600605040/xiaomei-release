@@ -1,13 +1,13 @@
 {
-  "version": "v1.17.6",
-  "notes": "v1.17.6-MCP\u9010\u7ea7\u542f\u52a8+\u667a\u80fd\u73af\u5883+\u9884\u7f13\u5b58",
-  "pub_date": "2026-07-07T23:15:00+08:00",
+  "version": "v1.17.7",
+  "notes": "v1.17.7 - Claude\u63d2\u4ef6\u5b89\u88c5+CRLF\u4fee\u590d+\u63d0\u793a\u97f3+\u5de5\u5177\u9519\u8bef\u6298\u53e0",
+  "pub_date": "2026-07-07T23:20:00+08:00",
   "download_page": "https://github.com/1600605040/xiaomei-release/releases",
   "platforms": {
     "windows-amd64": {
-      "url": "https://github.com/1600605040/xiaomei-release/releases/download/v1.17.6/xiaomei-setup-v1.17.6.exe",
+      "url": "https://github.com/1600605040/xiaomei-release/releases/download/v1.17.7/xiaomei-setup-v1.17.7.exe",
       "size": 43750768,
-      "sha256": "75e930bf6f0ca6908a9b96739ca08492536a2b3994b5dd54ada923825474ddb0"
+      "sha256": "72dbb8caedd807c3299ab7971b2b9bcc77b0769d52111665bca8d43b5ba57a57"
     }
   }
 }
