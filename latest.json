@@ -1,13 +1,13 @@
 {
   "version": "v1.17.7",
-  "notes": "v1.17.7-MemoryMCP fix",
-  "pub_date": "2026-07-08T01:30:00+08:00",
+  "notes": "v1.17.7 final",
+  "pub_date": "2026-07-08T01:40:00+08:00",
   "download_page": "https://github.com/1600605040/xiaomei-release/releases",
   "platforms": {
     "windows-amd64": {
       "url": "https://github.com/1600605040/xiaomei-release/releases/download/v1.17.7/xiaomei-setup-v1.17.7.exe",
-      "size": 43766165,
-      "sha256": "ea21ef202c874bfaac57f59cd8f9178ca2bebabf2f57fb8a33cc1e12d4278dcd"
+      "size": 43766032,
+      "sha256": "b6fb5fd16e3e1fc898e795ac3fc80967d53ac70bd5b2ead66525a660e65187e7"
     }
   }
 }
