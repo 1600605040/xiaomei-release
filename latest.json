@@ -1,7 +1,7 @@
 {
   "version": "v1.17.7",
-  "notes": "v1.17.7 - MemoryMCP npx.cmd fix + 40/42 servers",
-  "pub_date": "2026-07-08T01:20:00+08:00",
+  "notes": "v1.17.7-MemoryMCP fix",
+  "pub_date": "2026-07-08T01:30:00+08:00",
   "download_page": "https://github.com/1600605040/xiaomei-release/releases",
   "platforms": {
     "windows-amd64": {
