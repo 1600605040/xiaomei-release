@@ -1,6 +1,6 @@
 {
-  "version": "v1.17.9",
-  "notes": "v1.17.9 stable: Go 1.26.5 + Wails 2.13.0 + hooks动态路径 + DepsBanner + 34脚本",
+  "version": "v1.17.10",
+  "notes": "v1.17.10 test update notification",
   "platforms": {
     "windows-amd64": {
       "url": "https://github.com/1600605040/xiaomei-release/releases/download/v1.17.9/xiaomei-setup-v1.17.9.exe",
