@@ -1,11 +1,1 @@
-{
-  "version": "v1.17.10",
-  "notes": "v1.17.10 test update notification",
-  "platforms": {
-    "windows-amd64": {
-      "url": "https://github.com/1600605040/xiaomei-release/releases/download/v1.17.9/xiaomei-setup-v1.17.9.exe",
-      "size": 41336104,
-      "sha256": "d19105da2529ddf937b3f811a1184401d8fd56cf72a6456f686bd9498e5e763a"
-    }
-  }
-}
+{"version":"v1.17.10","notes":"test update","platforms":{"windows-amd64":{"url":"https://github.com/1600605040/xiaomei-release/releases/download/v1.17.9/xiaomei-setup-v1.17.9.exe","size":41336104,"sha256":"d19105da2529ddf937b3f811a1184401d8fd56cf72a6456f686bd9498e5e763a"}}}
