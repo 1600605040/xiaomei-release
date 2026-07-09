@@ -1,6 +1,6 @@
 {
   "version": "v1.18.0",
-  "notes": "v1.18.0 stable",
+  "notes": "v1.18.0 stable (\u542bupdate-helper\u4fee\u590d)",
   "platforms": {
     "windows-amd64": {
       "url": "https://github.com/1600605040/xiaomei-release/releases/download/v1.18.0/xiaomei-setup-v1.18.0.exe",
