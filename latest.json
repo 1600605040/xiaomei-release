@@ -1,1 +1,11 @@
-{"version": "v1.17.9", "notes": "v1.17.9 stable: v1.17.7 base + dashboard + login + 小美品牌", "platforms": {"windows-amd64": {"url": "https://github.com/1600605040/xiaomei-release/releases/download/v1.17.7/xiaomei-setup-v1.17.7.exe", "sig": "", "size": 48262144, "sha256": "46675956b08941d0903507f317e418c710209bf30e1e27d2f4c510cc02001b00"}}}
+{
+  "version": "v1.17.9",
+  "notes": "v1.17.9 stable: Go 1.26.5 + Wails 2.13.0 + hooks动态路径 + DepsBanner + 34脚本",
+  "platforms": {
+    "windows-amd64": {
+      "url": "https://github.com/1600605040/xiaomei-release/releases/download/v1.17.9/xiaomei-setup-v1.17.9.exe",
+      "size": 41336104,
+      "sha256": "d19105da2529ddf937b3f811a1184401d8fd56cf72a6456f686bd9498e5e763a"
+    }
+  }
+}
