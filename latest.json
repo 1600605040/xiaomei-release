@@ -1,11 +1,11 @@
 {
   "version": "v1.18.0",
-  "notes": "v1.18.0 - fix turn counter",
+  "notes": "v1.18.0 - hooks/settings auto sync + brand fix + CDP + icon",
   "platforms": {
     "windows-amd64": {
       "url": "https://github.com/1600605040/xiaomei-release/releases/download/v1.18.0/xiaomei-setup-v1.18.0.exe",
-      "size": 41572236,
-      "sha256": "f70c399acd43edead417880d2b0a6998c038d0272a6acf710a5bfc998de06683"
+      "size": 43267917,
+      "sha256": "2e77f7d1b86dcd800d9ece2c7e34af3868a7e94b9c2df6720c8fb1d376d46758"
     }
   }
 }
