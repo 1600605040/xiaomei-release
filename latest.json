@@ -1,9 +1,9 @@
 {
-  "version": "v1.17.11",
-  "notes": "v1.17.11 \u2014 update notification test",
+  "version": "v1.17.10",
+  "notes": "v1.17.10 - xiaomei",
   "platforms": {
     "windows-amd64": {
-      "url": "https://github.com/1600605040/xiaomei-release/releases/download/v1.17.11/xiaomei-setup-v1.17.11.exe",
+      "url": "https://github.com/1600605040/xiaomei-release/releases/download/v1.17.10/xiaomei-setup-v1.17.10.exe",
       "size": 46228489,
       "sha256": "21b0cd27e93a835275e285ff431b43e5b2e9afcc3e5954690846b7930efc0ecd"
     }
