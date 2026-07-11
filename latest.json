@@ -1,6 +1,6 @@
 {
   "version": "v1.17.10",
-  "notes": "v1.17.10 - xiaomei custom build (brand+login+dashboard+CDP+CDN)",
+  "notes": "v1.17.10 - xiaomei custom (updated 2026-07-11T01:27:55Z)",
   "platforms": {
     "windows-amd64": {
       "url": "https://github.com/1600605040/xiaomei-release/releases/download/v1.17.10/xiaomei-setup-v1.17.10.exe",
