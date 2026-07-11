@@ -1,11 +1,11 @@
 {
   "version": "v1.17.10",
-  "notes": "v1.17.10 - EvoClaw auto-evolution + 19 hooks + dynamic paths",
+  "notes": "v1.17.10 - SOUL.md sync + NSIS",
   "platforms": {
     "windows-amd64": {
       "url": "https://github.com/1600605040/xiaomei-release/releases/download/v1.17.10/xiaomei-setup-v1.17.10.exe",
-      "size": 46228026,
-      "sha256": "977b72b49e139742da00275d76ac93b2457b2bcf20e3523e7a9945b7aa2e0f65"
+      "size": 46228360,
+      "sha256": "7fdb6506685a410948face716a964a241beee6e34e3dcf4fc07e64b722a43e52"
     }
   }
 }
