@@ -1,11 +1,11 @@
 {
   "version": "v1.17.11",
-  "notes": "v1.17.11 Stable - update test",
+  "notes": "v1.17.11",
   "platforms": {
     "windows-amd64": {
       "url": "https://github.com/1600605040/xiaomei-release/releases/download/v1.17.11/xiaomei-setup-v1.17.11.exe",
-      "size": 46224622,
-      "sha256": "a3b2fc68ce6e7105a0ab04a098a2db9ddc171aa96471984bf7c245aee6841377",
+      "size": 46224582,
+      "sha256": "3f6a73260d3be806e6fdcf068a8ab9afce20982b686d8fc8db2e406d8bfb8f13",
       "sig": "https://raw.githubusercontent.com/1600605040/xiaomei-release/main/xiaomei-setup-v1.17.11.exe.minisig"
     }
   }
