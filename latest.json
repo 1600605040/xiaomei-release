@@ -1,6 +1,6 @@
 {
   "version": "v1.17.11",
-  "notes": "v1.17.11",
+  "notes": "v1.17.11 Stable",
   "platforms": {
     "windows-amd64": {
       "url": "https://github.com/1600605040/xiaomei-release/releases/download/v1.17.11/xiaomei-setup-v1.17.11.exe",
