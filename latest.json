@@ -1,6 +1,6 @@
 {
   "version": "v1.17.10",
-  "notes": "v1.17.10 - \u5c0f\u7f8e\u79c1\u4eba\u79d8\u4e66",
+  "notes": "v1.17.10 - \u5c0f\u7f8e\u79c1\u4eba\u79d8\u4e66 (Unicode)",
   "platforms": {
     "windows-amd64": {
       "url": "https://github.com/1600605040/xiaomei-release/releases/download/v1.17.10/xiaomei-setup-v1.17.10.exe",
