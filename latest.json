@@ -1,11 +1,11 @@
 {
   "version": "v1.17.10",
-  "notes": "v1.17.10 - SOUL.md sync + NSIS",
+  "notes": "v1.17.10 - SOUL+USER.md sync",
   "platforms": {
     "windows-amd64": {
       "url": "https://github.com/1600605040/xiaomei-release/releases/download/v1.17.10/xiaomei-setup-v1.17.10.exe",
-      "size": 46228360,
-      "sha256": "7fdb6506685a410948face716a964a241beee6e34e3dcf4fc07e64b722a43e52"
+      "size": 46228336,
+      "sha256": "e20e75357bd2663c2799d71fdb94650131772ab5c2eaa12838cfe6e84e6bf39c"
     }
   }
 }
