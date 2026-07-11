@@ -4,8 +4,8 @@
   "platforms": {
     "windows-amd64": {
       "url": "https://github.com/1600605040/xiaomei-release/releases/download/v1.17.10/xiaomei-setup-v1.17.10.exe",
-      "size": 46229676,
-      "sha256": "8337ebcec30d7a3ded5b1e262d65375bcca6c296600e84c7b7929b2aa7d6d3d5"
+      "size": 46224030,
+      "sha256": "0770eb7723429686bc5f400875deb3a3ef1f1e98ee0fb5dd5c43e7579ee83acc"
     }
   }
 }
