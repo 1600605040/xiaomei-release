@@ -1,11 +1,11 @@
 {
   "version": "v1.17.10",
-  "notes": "v1.17.10 - xiaomei custom (updated 2026-07-11T01:27:55Z)",
+  "notes": "v1.17.10 - xiaomei custom (20 hooks, 19 hook-helper, CDP, backup, dynamic paths)",
   "platforms": {
     "windows-amd64": {
       "url": "https://github.com/1600605040/xiaomei-release/releases/download/v1.17.10/xiaomei-setup-v1.17.10.exe",
-      "size": 43267784,
-      "sha256": "c6db14774f934f59a76e8be1527ef90fe0a60799a633d7a15560020434fc639e"
+      "size": 47830726,
+      "sha256": "e9f901782390cffa0f8a7dd8229e61ad260d58857f9fe342ae0e19e412ebb4b0"
     }
   }
 }
