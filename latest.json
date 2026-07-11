@@ -1,11 +1,11 @@
 {
-  "version": "v1.18.0",
-  "notes": "v1.18.0 - hooks/settings auto sync + brand fix + CDP + icon",
+  "version": "v1.17.10",
+  "notes": "v1.17.10 - xiaomei custom build (brand+login+dashboard+CDP+CDN)",
   "platforms": {
     "windows-amd64": {
-      "url": "https://github.com/1600605040/xiaomei-release/releases/download/v1.18.0/xiaomei-setup-v1.18.0.exe",
-      "size": 43267917,
-      "sha256": "2e77f7d1b86dcd800d9ece2c7e34af3868a7e94b9c2df6720c8fb1d376d46758"
+      "url": "https://github.com/1600605040/xiaomei-release/releases/download/v1.17.10/xiaomei-setup-v1.17.10.exe",
+      "size": 43267784,
+      "sha256": "c6db14774f934f59a76e8be1527ef90fe0a60799a633d7a15560020434fc639e"
     }
   }
 }
