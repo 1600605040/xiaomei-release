@@ -1,13 +1,13 @@
 {
   "version": "v1.17.12",
-  "notes": "小美 v1.17.12 稳定版 — go vet clean, 0 空壳, 全hook实测通过",
+  "notes": "v1.17.12 final: hook-helper rebuilt + .pyc cleaned",
   "pub_date": "2026-07-14T00:14:00+08:00",
   "download_page": "https://github.com/1600605040/xiaomei-release/releases/tag/v1.17.12",
   "platforms": {
     "windows-amd64": {
       "url": "https://fastly.jsdelivr.net/gh/1600605040/xiaomei-release@main/小美秘书-v1.17.12安装包.exe",
-      "size": 50625612,
-      "sha256": "270351143a46f295760876eae241fbeb345e1843321734ad540c54ca1f7d4e1f"
+      "size": 50585709,
+      "sha256": "8fd31e90e882d50cca7e4e4f9598a4619c89c8f3acf6b953ba78da5bf7a4766d"
     }
   }
 }
