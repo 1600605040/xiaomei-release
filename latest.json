@@ -6,8 +6,8 @@
   "platforms": {
     "windows-amd64": {
       "url": "https://fastly.jsdelivr.net/gh/1600605040/xiaomei-release@main/小美秘书-v1.17.12安装包.exe",
-      "size": 50601434,
-      "sha256": "0b7fa3bec0a0092dce287b1d069c7592ef19d0cb358ac39c50e5f4a5269d4eac"
+      "size": 50625612,
+      "sha256": "270351143a46f295760876eae241fbeb345e1843321734ad540c54ca1f7d4e1f"
     }
   }
 }
