@@ -1,13 +1,13 @@
 {
   "version": "v1.17.12",
-  "notes": "v1.17.12: DepsBanner UI + deps auto-install",
+  "notes": "v1.17.12: evoclaw-report writes markdown reports",
   "pub_date": "2026-07-14T00:14:00+08:00",
   "download_page": "https://github.com/1600605040/xiaomei-release/releases/tag/v1.17.12",
   "platforms": {
     "windows-amd64": {
       "url": "https://fastly.jsdelivr.net/gh/1600605040/xiaomei-release@main/小美秘书-v1.17.12安装包.exe",
-      "size": 50595911,
-      "sha256": "ba551661a6f555639bfe0da9707d860835057d0044998eabf6c6523a80c814f1"
+      "size": 50599015,
+      "sha256": "c8f54c8880f094b863f535850ae64cf28e4d4a580910213f135bac29fc7f0d05"
     }
   }
 }
