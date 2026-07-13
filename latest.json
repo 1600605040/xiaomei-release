@@ -1,13 +1,13 @@
 {
   "version": "v1.17.12",
-  "notes": "小美 v1.17.12 稳定版",
-  "pub_date": "2026-07-13T22:19:00+08:00",
-  "download_page": "https://github.com/1600605040/xiaomei-release/releases",
+  "notes": "小美 v1.17.12 稳定版 — go vet clean, 0 空壳, 全hook实测通过",
+  "pub_date": "2026-07-14T00:14:00+08:00",
+  "download_page": "https://github.com/1600605040/xiaomei-release/releases/tag/v1.17.12",
   "platforms": {
     "windows-amd64": {
       "url": "https://github.com/1600605040/xiaomei-release/releases/download/v1.17.12/xiaomei-setup-v1.17.12.exe",
-      "size": 50611817,
-      "sha256": "7e6f574d583dc281fd8c02acaf848a6aaf566523ed7bdcd53149994695d36e87"
+      "size": 50601434,
+      "sha256": "0b7fa3bec0a0092dce287b1d069c7592ef19d0cb358ac39c50e5f4a5269d4eac"
     }
   }
 }
