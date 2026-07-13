@@ -1,13 +1,13 @@
 {
   "version": "v1.17.12",
-  "notes": "v1.17.12: fastly CDN (bypass CF), go vet clean, 0 空壳, 19/19 hooks OK",
+  "notes": "小美 v1.17.12 稳定版 — go vet clean, 0 空壳, 全hook实测通过",
   "pub_date": "2026-07-14T00:14:00+08:00",
   "download_page": "https://github.com/1600605040/xiaomei-release/releases/tag/v1.17.12",
   "platforms": {
     "windows-amd64": {
-      "url": "https://fastly.jsdelivr.net/gh/1600605040/xiaomei-release@main/小美秘书-v1.17.12安装包.exe",
-      "size": 50611703,
-      "sha256": "3e63ac5dd768f10fc489b45b6a52e4e437004d7c0a81a8b40aea091dec1d8f2b"
+      "url": "https://github.com/1600605040/xiaomei-release/releases/download/v1.17.12/xiaomei-setup-v1.17.12.exe",
+      "size": 50601434,
+      "sha256": "0b7fa3bec0a0092dce287b1d069c7592ef19d0cb358ac39c50e5f4a5269d4eac"
     }
   }
 }
