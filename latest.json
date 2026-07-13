@@ -1,13 +1,13 @@
 {
   "version": "v1.17.12",
-  "notes": "v1.17.12: deps auto-install (Node.js+Chrome+Git detection + npm tools)",
+  "notes": "v1.17.12: DepsBanner UI + deps auto-install",
   "pub_date": "2026-07-14T00:14:00+08:00",
   "download_page": "https://github.com/1600605040/xiaomei-release/releases/tag/v1.17.12",
   "platforms": {
     "windows-amd64": {
       "url": "https://fastly.jsdelivr.net/gh/1600605040/xiaomei-release@main/小美秘书-v1.17.12安装包.exe",
-      "size": 50591098,
-      "sha256": "32575f605c18f5ed77bf39756b5a8064fba2751dc46475d84163b9ffeb47bd84"
+      "size": 50591543,
+      "sha256": "8e63a0ae30abbdc58d9ade584087dbdc117cea144d52d733e93a3d1f2ae9447e"
     }
   }
 }
