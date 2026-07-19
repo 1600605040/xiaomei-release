@@ -1,13 +1,11 @@
 {
-  "version": "v1.17.12",
-  "notes": "v1.17.12: evoclaw-report writes markdown reports",
-  "pub_date": "2026-07-14T00:14:00+08:00",
-  "download_page": "https://github.com/1600605040/xiaomei-release/releases/tag/v1.17.12",
+  "version": "v1.17.15",
+  "sig": "547c56ed3dd603b34e4148d5bd52519e",
   "platforms": {
     "windows-amd64": {
-      "url": "https://fastly.jsdelivr.net/gh/1600605040/xiaomei-release@main/小美秘书-v1.17.12安装包.exe",
-      "size": 50599015,
-      "sha256": "c8f54c8880f094b863f535850ae64cf28e4d4a580910213f135bac29fc7f0d05"
+      "url": "https://github.com/1600605040/xiaomei-release/releases/download/v1.17.15/xiaomei-v1.17.15-installer.exe",
+      "size": 64772991,
+      "sha256": "9bc55e43d0bd6852db5db6e86023174d99a874625e78c2ddfb5174a35dc7a0ec"
     }
   }
 }
