@@ -1,0 +1,10 @@
+{
+  "version": "v1.17.21",
+  "platforms": {
+    "windows-amd64": {
+      "url": "https://github.com/1600605040/xiaomei-release/releases/download/v1.17.21/xiaomei-v1.17.21-installer.exe",
+      "size": 65913787,
+      "sha256": "9bc55e43d0bd6852db5db6e86023174d99a874625e78c2ddfb5174a35dc7a0ec"
+    }
+  }
+}
