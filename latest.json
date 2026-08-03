@@ -1,12 +1,12 @@
 {
-  "version": "v1.18.36",
+  "version": "v1.18.37",
   "download_page": "https://github.com/1600605040/xiaomei-release/releases",
   "platforms": {
     "windows-amd64": {
-      "url": "https://github.com/1600605040/xiaomei-release/releases/download/v1.18.36/xiaomei-windows-amd64-installer.exe",
-      "sig": "https://github.com/1600605040/xiaomei-release/releases/download/v1.18.36/xiaomei-windows-amd64-installer.exe.minisig",
-      "size": 62275970,
-      "sha256": "08dc672de6d4e1e64e283ab9bbb673c2981248a7fe74092702287529894a07ac"
+      "url": "https://github.com/1600605040/xiaomei-release/releases/download/v1.18.37/xiaomei-windows-amd64-installer.exe",
+      "sig": "https://github.com/1600605040/xiaomei-release/releases/download/v1.18.37/xiaomei-windows-amd64-installer.exe.minisig",
+      "size": 62274819,
+      "sha256": "f5b94d6c68e5eb4efe4805a2dc3f32fcc22abaa6cdef4eda803f4096d72710dd"
     }
   }
 }
