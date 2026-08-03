@@ -1,12 +1,1 @@
-{
-  "version": "v1.18.41",
-  "download_page": "https://github.com/1600605040/xiaomei-release/releases",
-  "platforms": {
-    "windows-amd64": {
-      "url": "https://github.com/1600605040/xiaomei-release/releases/download/v1.18.41/xiaomei-windows-amd64-installer.exe",
-      "sig": "https://github.com/1600605040/xiaomei-release/releases/download/v1.18.41/xiaomei-windows-amd64-installer.exe.minisig",
-      "size": 62325481,
-      "sha256": "06320321c95821971ce9d8e19dba8f36c86270d6c19d51293eee160221dd5bc1"
-    }
-  }
-}
+{"version": "v1.18.42", "notes": "右键/上传/复制/粘贴监听 + 标签开关 + 学习闭环纳入", "pub_date": "2026-08-03T20:26:31Z", "url": "https://github.com/1600605040/xiaomei-release/releases/download/v1.18.42/xiaomei-windows-amd64-installer.exe", "sha256": "828d797a36cd626ff53abd551e8aabac884ce2ea33cd9ddc986f0beb36bb958b"}
