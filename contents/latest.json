@@ -1,12 +1,7 @@
 {
-  "version": "v1.18.46",
+  "version": "v1.18.47",
+  "sha256": "1042f20c848037aac5c77827f4485b6ecf8d2ccbce02fc0524fb4c08e8239b80",
   "download_page": "https://github.com/1600605040/xiaomei-release/releases",
-  "platforms": {
-    "windows-amd64": {
-      "url": "https://github.com/1600605040/xiaomei-release/releases/download/v1.18.46/xiaomei-windows-amd64-installer.exe",
-      "sig": "https://github.com/1600605040/xiaomei-release/releases/download/v1.18.46/xiaomei-windows-amd64-installer.exe.minisig",
-      "size": 64129221,
-      "sha256": "bff282a3e89cd4f8ceec8269241b73aa9c9b9270d6f5e928b156b45aa7035d33"
-    }
-  }
+  "sig": "untrusted comment: Reasonix desktop release\nRWTBveCJ0FZfGrNnHsjuxCJBGObXxXdXHeuE/zx8TTjy3vh0zoyoHMj901pgBS22CK0hCYkBHHwsQrjzxCX8MvQxOIxjF2z12A4=\ntrusted comment: file:xiaomei-windows-amd64-installer.exe\nd5XXmoEab8TXHBMGIu5NzXIi1ldNGUUPcscJD/j2hTfvl6nauVxna+/qnAc2LlpRQoS5uT3hCB7QxLHW3VXWAA==",
+  "notes": "v1.18.47：仪表盘真实化（磁盘空间/今日活动统计/数据目录）+ 数据采集面板完善（开关活动状态/CSV导出/存储信息/空态）+ GetCollectorStats 类型分支修复"
 }
