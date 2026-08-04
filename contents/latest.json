@@ -1,7 +1,12 @@
 {
-  "version": "v1.18.48",
-  "sha256": "c032a4d9c74b71c3526e235e7051c541313b60e81b1c82896b1ec378e4ffc9d3",
+  "version": "v1.18.49",
   "download_page": "https://github.com/1600605040/xiaomei-release/releases",
-  "sig": "untrusted comment: Reasonix desktop release\nRWTBveCJ0FZfGlpeZ7dHEDPXbVydkwBMDTtXvZ+fAh4DPSfQ66+ElAOkWt8hof/VE42jXlfyGOYagpKIXpi3FNhzWfNAFYRByAc=\ntrusted comment: file:xiaomei-windows-amd64-installer.exe\nqoJwLwpbJlfHFCu5oKBKXvNd3Ky+Z5fwgov5OnyFaI5K3Q0NyL6TVXG0zSMprE8GTDenGGeo96pfel1lc2JICA==",
-  "notes": "v1.18.48：修复启动卡顿——文件采集器全盘索引重构（延迟30s+排除自身/依赖目录+内容截断2KB+幂等+节流）+ file_events 自动清理 + 存量库 147MB→9MB 瘦身"
+  "platforms": {
+    "windows-amd64": {
+      "url": "https://github.com/1600605040/xiaomei-release/releases/download/v1.18.49/xiaomei-windows-amd64-installer.exe",
+      "sig": "https://github.com/1600605040/xiaomei-release/releases/download/v1.18.49/xiaomei-windows-amd64-installer.exe.minisig",
+      "size": 64172390,
+      "sha256": "6840f89816a02c10743fd26bd504f730ca4e0b8ead4e9487edfc9e8cc879f405"
+    }
+  }
 }
