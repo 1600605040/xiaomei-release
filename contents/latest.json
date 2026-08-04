@@ -1,7 +1,7 @@
 {
-  "version": "v1.18.47",
-  "sha256": "1042f20c848037aac5c77827f4485b6ecf8d2ccbce02fc0524fb4c08e8239b80",
+  "version": "v1.18.48",
+  "sha256": "c032a4d9c74b71c3526e235e7051c541313b60e81b1c82896b1ec378e4ffc9d3",
   "download_page": "https://github.com/1600605040/xiaomei-release/releases",
-  "sig": "untrusted comment: Reasonix desktop release\nRWTBveCJ0FZfGrNnHsjuxCJBGObXxXdXHeuE/zx8TTjy3vh0zoyoHMj901pgBS22CK0hCYkBHHwsQrjzxCX8MvQxOIxjF2z12A4=\ntrusted comment: file:xiaomei-windows-amd64-installer.exe\nd5XXmoEab8TXHBMGIu5NzXIi1ldNGUUPcscJD/j2hTfvl6nauVxna+/qnAc2LlpRQoS5uT3hCB7QxLHW3VXWAA==",
-  "notes": "v1.18.47：仪表盘真实化（磁盘空间/今日活动统计/数据目录）+ 数据采集面板完善（开关活动状态/CSV导出/存储信息/空态）+ GetCollectorStats 类型分支修复"
+  "sig": "untrusted comment: Reasonix desktop release\nRWTBveCJ0FZfGlpeZ7dHEDPXbVydkwBMDTtXvZ+fAh4DPSfQ66+ElAOkWt8hof/VE42jXlfyGOYagpKIXpi3FNhzWfNAFYRByAc=\ntrusted comment: file:xiaomei-windows-amd64-installer.exe\nqoJwLwpbJlfHFCu5oKBKXvNd3Ky+Z5fwgov5OnyFaI5K3Q0NyL6TVXG0zSMprE8GTDenGGeo96pfel1lc2JICA==",
+  "notes": "v1.18.48：修复启动卡顿——文件采集器全盘索引重构（延迟30s+排除自身/依赖目录+内容截断2KB+幂等+节流）+ file_events 自动清理 + 存量库 147MB→9MB 瘦身"
 }
