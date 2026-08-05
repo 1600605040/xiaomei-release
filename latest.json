@@ -1,12 +1,21 @@
 {
-  "version": "v1.18.52",
+  "version": "v1.18.53",
+  "notes": "EvoClaw 垃圾技能过滤 + 插件 41 处硬编码路径修复 + desktop-watch/miniwatch + check-deps scrapling",
   "download_page": "https://github.com/1600605040/xiaomei-release/releases",
   "platforms": {
     "windows-amd64": {
-      "url": "https://github.com/1600605040/xiaomei-release/releases/download/v1.18.52/xiaomei-windows-amd64-installer.exe",
-      "sig": "https://github.com/1600605040/xiaomei-release/releases/download/v1.18.52/xiaomei-windows-amd64-installer.exe.minisig",
-      "size": 67649656,
-      "sha256": "3eb8de7ace2b6511521952e26b1cee59e78f871b802a317d1f931295047a1445"
+      "url": "https://github.com/1600605040/xiaomei-release/releases/download/v1.18.53/xiaomei-windows-amd64-installer.exe",
+      "sig": "https://github.com/1600605040/xiaomei-release/releases/download/v1.18.53/xiaomei-windows-amd64-installer.exe.minisig",
+      "size": 67758139,
+      "sha256": "bd21bb8bee681ea055d3ab12ac60fb0e5b473e8fa503610a417c5a644948b4a8"
+    }
+  },
+  "downloads": {
+    "xiaomei-windows-amd64-installer.exe": {
+      "url": "https://github.com/1600605040/xiaomei-release/releases/download/v1.18.53/xiaomei-windows-amd64-installer.exe",
+      "sig": "https://github.com/1600605040/xiaomei-release/releases/download/v1.18.53/xiaomei-windows-amd64-installer.exe.minisig",
+      "size": 67758139,
+      "sha256": "bd21bb8bee681ea055d3ab12ac60fb0e5b473e8fa503610a417c5a644948b4a8"
     }
   }
 }
