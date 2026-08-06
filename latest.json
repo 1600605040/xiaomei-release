@@ -1,20 +1,24 @@
 {
- "version": "v1.20.0",
- "download_page": "https://github.com/1600605040/xiaomei-release/releases",
- "platforms": {
-  "windows-amd64": {
-   "url": "https://github.com/1600605040/xiaomei-release/releases/download/v1.20.0/xiaomei-windows-amd64-installer.exe",
-   "sig": "https://github.com/1600605040/xiaomei-release/releases/download/v1.20.0/xiaomei-windows-amd64-installer.exe.minisig",
-   "size": 68629686,
-   "sha256": "ed88693764c2aa3cb33ae09d3538114b2ec4d150e782bd9570a8d4ea30e3e61e"
+  "version": "v1.20.0",
+  "sig": "https://github.com/1600605040/xiaomei-release/releases/download/v1.20.0/xiaomei-windows-amd64-installer.exe.minisig",
+  "download_page": "https://github.com/1600605040/xiaomei-release/releases",
+  "platforms": {
+    "windows-amd64": {
+      "url": "https://github.com/1600605040/xiaomei-release/releases/download/v1.20.0/xiaomei-windows-amd64-installer.exe",
+      "sig": "https://github.com/1600605040/xiaomei-release/releases/download/v1.20.0/xiaomei-windows-amd64-installer.exe.minisig",
+      "size": 68629529,
+      "sha256": "c645e0b76eb8e52c8acfa6cd692ee3e8721cca017147a09f15e9f1ee2f0e5466"
+    }
+  },
+  "downloads": {
+    "xiaomei-windows-amd64-installer.exe": {
+      "group": "downloads",
+      "key": "xiaomei-windows-amd64-installer.exe",
+      "filename": "xiaomei-windows-amd64-installer.exe",
+      "url": "https://github.com/1600605040/xiaomei-release/releases/download/v1.20.0/xiaomei-windows-amd64-installer.exe",
+      "sig": "https://github.com/1600605040/xiaomei-release/releases/download/v1.20.0/xiaomei-windows-amd64-installer.exe.minisig",
+      "size": 68629529,
+      "sha256": "c645e0b76eb8e52c8acfa6cd692ee3e8721cca017147a09f15e9f1ee2f0e5466"
+    }
   }
- },
- "downloads": {
-  "xiaomei-windows-amd64-installer.exe": {
-   "url": "https://github.com/1600605040/xiaomei-release/releases/download/v1.20.0/xiaomei-windows-amd64-installer.exe",
-   "sig": "https://github.com/1600605040/xiaomei-release/releases/download/v1.20.0/xiaomei-windows-amd64-installer.exe.minisig",
-   "size": 68629686,
-   "sha256": "ed88693764c2aa3cb33ae09d3538114b2ec4d150e782bd9570a8d4ea30e3e61e"
-  }
- }
 }
