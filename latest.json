@@ -1,10 +1,11 @@
 {
   "version": "v1.21.2",
-  "download_page": "https://github.com/1600605040/xiaomei-release/releases",
+  "notes": "v1.21.2 升级 + 定制全迁移（品牌/采集/CDP/ttshop/更新明细）+ 前往官网下载指向小美",
+  "pub_date": "2026-08-08T02:00:00Z",
   "platforms": {
-    "windows-amd64": {
+    "windows-x86_64": {
       "url": "https://github.com/1600605040/xiaomei-release/releases/download/v1.21.2/xiaomei-windows-amd64-installer.exe",
-      "sig": "https://github.com/1600605040/xiaomei-release/releases/download/v1.21.2/xiaomei-windows-amd64-installer.exe.minisig",
+      "sig": "",
       "size": 69574454,
       "sha256": "a8201a5525d8acc4bbb20d3b19b92efd312ebefbf18f95aecaff53b4a1ac40fe"
     }
