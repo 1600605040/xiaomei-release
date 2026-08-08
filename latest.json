@@ -1,12 +1,11 @@
 {
   "version": "v1.21.2",
-  "download_page": "https://github.com/1600605040/xiaomei-release/releases",
+  "sig": "dW50cnVzdGVkIGNvbW1lbnQ6IFJlYXNvbml4IGRlc2t0b3AgcmVsZWFzZQpSV1RCdmVDSjBGWmZHcDFlb2pvUjdDaHNwNjYzRFBQMzRmTmdCL1hmMDFSNDBZUnVJc1hQcGJlOURXc09oZ3FIQ0FFTWdzL1N1L2t5K0tncU1sTHk3OFlBMXBNdC8vVkxZQUE9CnRydXN0ZWQgY29tbWVudDogZmlsZTp4aWFvbWVpLXdpbmRvd3MtYW1kNjQtaW5zdGFsbGVyLmV4ZQpsSHZaVGpGTk54dXJ3djQ3NVlzcHg2RjVSdDVVaDZLbjd3ZFFSRmQ3RCtPVmhUS0RtMys3SXFqOWxidGI2dkVhQ1A1eHlpOUJrSGx5WjBoT2cwOGpDQT09Cg==",
   "platforms": {
     "windows-amd64": {
       "url": "https://github.com/1600605040/xiaomei-release/releases/download/v1.21.2/xiaomei-windows-amd64-installer.exe",
-      "sig": "https://github.com/1600605040/xiaomei-release/releases/download/v1.21.2/xiaomei-windows-amd64-installer.exe.minisig",
-      "size": 69574592,
-      "sha256": "7a62cada9a13f68b88c221cde6d8d219b8afc7d8bd77e0c8c157fba0e4ff00e8"
+      "sha256": "295f2f10b755fc0e328e9e326b4e0a58e5bdd61ed961f739fbce1fe276e7e349",
+      "size": 74610114
     }
   }
 }
