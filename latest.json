@@ -1,7 +1,7 @@
 {
   "version": "v1.21.2",
-  "notes": "v1.21.2 升级 + 定制全迁移 + Hooks 修复（trailing comma）+ 人设提示词版本号修复",
-  "pub_date": "2026-08-09T19:45:00Z",
+  "notes": "v1.21.2 MCP 修复（PATH 注入 + 占位符 + 登录恢复）+ PWA LOGO + Hooks 修复",
+  "pub_date": "2026-08-09T20:30:00Z",
   "download_page": "https://github.com/1600605040/xiaomei-release/releases",
   "platforms": {
     "windows-amd64": {
