@@ -1,14 +1,13 @@
 {
   "version": "v1.21.2",
-  "notes": "v1.21.2 MCP 修复（PATH 注入 + 占位符 + 登录恢复）+ PWA LOGO + Hooks 修复",
-  "pub_date": "2026-08-09T20:30:00Z",
   "download_page": "https://github.com/1600605040/xiaomei-release/releases",
   "platforms": {
     "windows-amd64": {
       "url": "https://github.com/1600605040/xiaomei-release/releases/download/v1.21.2/xiaomei-windows-amd64-installer.exe",
       "sig": "https://github.com/1600605040/xiaomei-release/releases/download/v1.21.2/xiaomei-windows-amd64-installer.exe.minisig",
       "size": 75255454,
-      "sha256": "1660d0ca30a436804c7166cea24ed86b384f0eddf90e2b9f94abffe028d42677"
+      "sha256": "1660d0ca30a436804c7166cea24ed86b384f0eddf90e2b9f94abffe028d42677",
+      "install_layout": "v1"
     }
   }
 }
