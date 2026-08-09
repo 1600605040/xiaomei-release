@@ -7,8 +7,8 @@
     "windows-amd64": {
       "url": "https://github.com/1600605040/xiaomei-release/releases/download/v1.21.2/xiaomei-windows-amd64-installer.exe",
       "sig": "https://github.com/1600605040/xiaomei-release/releases/download/v1.21.2/xiaomei-windows-amd64-installer.exe.minisig",
-      "size": 74571712,
-      "sha256": "5929552444c8ea2a5be5c7e78f96e8e19d4aa015cc162c9881e3fa2ffcbc726a"
+      "size": 74345048,
+      "sha256": "ab6b92582b535b3fe25bf735f25031cc39f45dbc7d9f4a94b80ca665e3e0f159"
     }
   }
 }
