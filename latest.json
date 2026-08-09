@@ -1,11 +1,11 @@
 {
   "version": "v1.21.2",
-  "sig": "dW50cnVzdGVkIGNvbW1lbnQ6IFJlYXNvbml4IGRlc2t0b3AgcmVsZWFzZQpSV1RCdmVDSjBGWmZHcDFlb2pvUjdDaHNwNjYzRFBQMzRmTmdCL1hmMDFSNDBZUnVJc1hQcGJlOURXc09oZ3FIQ0FFTWdzL1N1L2t5K0tncU1sTHk3OFlBMXBNdC8vVkxZQUE9CnRydXN0ZWQgY29tbWVudDogZmlsZTp4aWFvbWVpLXdpbmRvd3MtYW1kNjQtaW5zdGFsbGVyLmV4ZQpsSHZaVGpGTk54dXJ3djQ3NVlzcHg2RjVSdDVVaDZLbjd3ZFFSRmQ3RCtPVmhUS0RtMys3SXFqOWxidGI2dkVhQ1A1eHlpOUJrSGx5WjBoT2cwOGpDQT09Cg==",
+  "sig": "untrusted comment: Reasonix desktop release\nRWTBveCJ0FZfGrnnfaHdFFm0Sv9ixhIz3X/IZyDwOOV+QgWeg2n4uCtUDCsymkXBRgE9yR01TcBs7hn7L1VaX6Xf6oWqA7hDmA8=\ntrusted comment: file:xiaomei-desktop-amd64-installer.exe\nqvY1z6eC8R3xFVysBMIQbKhO6p5pWKY0v+MacL0AXBCzcQPtaYdw+ejDUjBqs7vKQfe3GZ24QaLBXUG8XjJZDQ==",
   "platforms": {
     "windows-amd64": {
       "url": "https://github.com/1600605040/xiaomei-release/releases/download/v1.21.2/xiaomei-windows-amd64-installer.exe",
-      "sha256": "295f2f10b755fc0e328e9e326b4e0a58e5bdd61ed961f739fbce1fe276e7e349",
-      "size": 74610114
+      "sha256": "5929552444c8ea2a5be5c7e78f96e8e19d4aa015cc162c9881e3fa2ffcbc726a",
+      "size": 74571712
     }
   }
 }
