@@ -1,11 +1,14 @@
 {
   "version": "v1.21.2",
-  "sig": "untrusted comment: Reasonix desktop release\nRWTBveCJ0FZfGrnnfaHdFFm0Sv9ixhIz3X/IZyDwOOV+QgWeg2n4uCtUDCsymkXBRgE9yR01TcBs7hn7L1VaX6Xf6oWqA7hDmA8=\ntrusted comment: file:xiaomei-desktop-amd64-installer.exe\nqvY1z6eC8R3xFVysBMIQbKhO6p5pWKY0v+MacL0AXBCzcQPtaYdw+ejDUjBqs7vKQfe3GZ24QaLBXUG8XjJZDQ==",
+  "notes": "v1.21.2 升级 + 定制全迁移 + Hooks 修复（trailing comma）+ 人设提示词版本号修复",
+  "pub_date": "2026-08-09T19:45:00Z",
+  "download_page": "https://github.com/1600605040/xiaomei-release/releases",
   "platforms": {
     "windows-amd64": {
       "url": "https://github.com/1600605040/xiaomei-release/releases/download/v1.21.2/xiaomei-windows-amd64-installer.exe",
-      "sha256": "5929552444c8ea2a5be5c7e78f96e8e19d4aa015cc162c9881e3fa2ffcbc726a",
-      "size": 74571712
+      "sig": "https://github.com/1600605040/xiaomei-release/releases/download/v1.21.2/xiaomei-windows-amd64-installer.exe.minisig",
+      "size": 74571712,
+      "sha256": "5929552444c8ea2a5be5c7e78f96e8e19d4aa015cc162c9881e3fa2ffcbc726a"
     }
   }
 }
