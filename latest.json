@@ -1,12 +1,12 @@
 {
-  "version": "v1.27.10",
+  "version": "v1.27.11",
   "download_page": "https://github.com/1600605040/xiaomei-release/releases",
   "platforms": {
     "windows-amd64": {
-      "url": "https://github.com/1600605040/xiaomei-release/releases/download/v1.27.10/xiaomei-windows-amd64-installer.exe",
-      "sig": "https://github.com/1600605040/xiaomei-release/releases/download/v1.27.10/xiaomei-windows-amd64-installer.exe.minisig",
-      "size": 77639424,
-      "sha256": "f0a183bc351e7e7e73de53826402c4a9f6aa8de4b3e43b7b45c2ba48f113f2d2",
+      "url": "https://github.com/1600605040/xiaomei-release/releases/download/v1.27.11/xiaomei-windows-amd64-installer.exe",
+      "sig": "https://github.com/1600605040/xiaomei-release/releases/download/v1.27.11/xiaomei-windows-amd64-installer.exe.minisig",
+      "size": 77643187,
+      "sha256": "7677ae973cf5ee1f405247628d16d22b635dc543af861c191cf1fcc80706a0db",
       "install_layout": "versioned-v1"
     }
   }
